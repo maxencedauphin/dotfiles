@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maxence.dauphin94@gmail.com
+	name = Maxence Dauphin
